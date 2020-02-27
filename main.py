@@ -2,7 +2,7 @@
 """
 Created on Wed Feb 12 17:40:52 2020
 Pygame Tutorial
-@author: vvrobert
+@author: RL0303
 https://www.youtube.com/watch?v=8GF6O6vNXCc&list=PLhTjy8cBISEo3SzET7Fc3-b4miKWp41yX&index=1
 """
 
